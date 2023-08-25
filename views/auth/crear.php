@@ -55,5 +55,8 @@
             <a href="/">¿Ya tienes una cuenta? Iniciar Sesión</a>
             <a href="/olvide">¿Olvidaste tu contraseña?</a>
         </div>
+        <a href="https://fernandomolina.es">
+            <p class="design">Design by: Fernando Molina | Marketing Digital</p>
+        </a>
     </div> <!-- contenedor-sm -->
 </div>

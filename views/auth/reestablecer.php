@@ -26,7 +26,10 @@
 
         <div class="acciones">
             <a href="/crear">¿Aún no tienes una cuenta? Crea una</a>
-            <a href="/olvide">¿Ya tienes una cuenta? Iniciar Sesión</a>
+            <a href="/">¿Ya tienes una cuenta? Iniciar Sesión</a>
         </div>
+        <a href="https://fernandomolina.es">
+            <p class="design">Design by: Fernando Molina | Marketing Digital</p>
+        </a>
     </div> <!-- contenedor-sm -->
 </div>
